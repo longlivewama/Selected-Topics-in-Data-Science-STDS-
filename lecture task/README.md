@@ -91,11 +91,7 @@ To achieve **Zero Data Loss**, the system implements a robust failure recovery s
 ├── tests/
 │   └── test_logic.py       # PyTest for Scoring Engine
 ├── requirements.txt        # Python Dependencies
-└── README.md               # Documentation
-
-لضمان أن يكون ملف الـ README.md الخاص بك على GitHub احترافيًا وشاملًا لأقصى درجة، قمت بتوسيع المحتوى ليشمل تفاصيل تقنية دقيقة حول هندسة جودة البيانات (Data Quality Engineering)، إدارة الفشل (Failure Handling)، والتحليل الإحصائي.
-
-إليك النسخة النهائية والموسعة، جاهزة للنسخ:
+└── README.md               # Documentation:
 
 Markdown
 
